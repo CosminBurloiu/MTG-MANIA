@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MTG-Mania</string>
+
+    <!--  Activity titles or subtitles   -->
+    <string name="counter">Start game</string>
+    <string name="notes">Notes</string>
+    <string name="videos">Videos</string>
+    <string name="community">Community</string>
+
+    <!--  Helpers   -->
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="create">Create new note</string>
+    <string name="welcomeMessageCommunity">The latest and freshest insights from the Magic community on Reddit</string>
+    <string name="select_subreddit">Select subreddit:</string>
+    <string name="add_video">Add videos to the playlist</string>
+    <string name="videos_tooltip">Video related options</string>
+</resources>

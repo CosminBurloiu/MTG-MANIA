@@ -1,0 +1,64 @@
+INSERT INTO notes( title, text, created_date, created_time) VALUES ( "First Note", "Welcome to MTG-MANIA!", date(), time());
+
+sa ma protejez de sql injection.
+
+sa fac o structura concreta
+
+ce e un inflater
+
+revazut recyclerview theory stuff plus cod
+
+sa separ chestiile din drawable
+
+sa revad teoria la clase si metode de lucru(agile etc)
+
+!!!!!!!!!!!!!!!!!!!!!!
+
+1. sa fac picture in picture pentru player ( de la Nicu ) + sa apara in notificare si sa se auda in background ( adica facut cu service )
+
+2.cifre romane + localization + preferinte ale jocului in care sa le includ
+
+de pus loader in loc de asynctask
+
+layout schimbat la Counter Activity pentru momentul in care facem flip
+
+!!!!!!!!!!!!!!!LA SAVE SI UPDATE SA DAU REMOVE LA BUTOANE SI SA IMPLEMENTEZ FUNCTIONALITATE IN FUNCTIE DE STATUSUL
+RESPECTIVULUI FISIER (cu restoreState am ultima varianta de fisier pe care o salvez cand dau back )
+
+maybe light sau dark theme
+
+
+....................................................................
+....................................................................
+....................................................................
+
+DP + paradigme din IT
+
+lista ovidiu de macro-uri
+
+alt+j macro de selectat same stuff pe next line
+
+
+
+PRIORITATI AZI:
+
+sa vad cum fac o legatura intre fisierele din downloads si cele care nu sunt in downloads
+
+
+pun pe git
+
+verificare ca fisierele din lista coreleaza atat ca existenta cat si ca path cu cele din mediastore
+
+
+ //!!!!!
+    //  Broadcast receiver ca atunci cand primesc un apel sa pun pauza din prima
+    //  MediaStore Listener ca atunci cand mut un fisier sa fac update la uri-ul respectivului fisier ( asta trebuie implementate in lista de video-uri de mai sus )
+
+
+
+
+
+
+
+
+
